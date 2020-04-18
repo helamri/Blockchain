@@ -3,6 +3,7 @@
   Building a cryptocurrency used in gaming exchanges 
   
 ![1](pics/cosmos.png)
+
 **What is [Cosmos Network](https://docs.cosmos.network/master/)?**:
   
  - Cosmos is a decentrilized network of independent parallele blockchains, each powred by BFT Consensus like Tedermint consensus.
